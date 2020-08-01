@@ -1,2 +1,2 @@
-# Penelitian-ilmiah
-Ini adalah repo Penelitian Ilmiah saya
+# Penulisan-ilmiah
+Ini adalah repo Penulisan Ilmiah saya
