@@ -3,6 +3,9 @@
 
 sources :
 https://github.com/louisowen6/NLP_bahasa_resources
+
 https://github.com/abhimantramb/elang/blob/master/word2vec/utils/swear-words.txt
+
 https://github.com/fajri91/InSet
+
 https://github.com/agusmakmun/SentiStrengthID/blob/master/id_dict/sentimentword.txt
